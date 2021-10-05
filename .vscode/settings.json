@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/ba6aa7d9-47a6-45a4-b67a-27fa83ef3126/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/BlueprintAspergerApi"
+}
